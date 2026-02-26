@@ -52,7 +52,6 @@ I am a CS Student @ the University of Central Florida. I am always looking to le
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablomoli&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF&langs_count=8" width="49%" alt="Top Languages">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pablomoli&theme=github_dark&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF&layout=compact" width="49%" alt="WakaTime Stats">
 </div>
 
 ---
