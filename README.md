@@ -1,4 +1,4 @@
-# Hi, I'm Pablo! 👋
+# Hi, I'm Pablo
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;CS+Student+at+UCF" alt="Typing SVG" />
@@ -8,7 +8,7 @@ I am a CS Student @ the University of Central Florida. I am always looking to le
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -43,7 +43,7 @@ I am a CS Student @ the University of Central Florida. I am always looking to le
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pablomoli&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF&icon_color=58A6FF" width="49%" alt="GitHub Stats">
@@ -56,7 +56,7 @@ I am a CS Student @ the University of Central Florida. I am always looking to le
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution
 
 <div align="center">
   <picture>
