@@ -46,12 +46,9 @@ I am a CS Student @ the University of Central Florida. I am always looking to le
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github.com/pablomoli/pablomoli/raw/main/github-metrics.svg" width="49%" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pablomoli&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="49%" alt="GitHub Streak">
-</div>
-
-<div align="center">
-  <img src="https://github.com/pablomoli/pablomoli/raw/main/languages.svg" width="49%" alt="Top Languages">
+  <img src="https://github.com/pablomoli/pablomoli/raw/main/github-metrics.svg" alt="GitHub Stats"><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pablomoli&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"><br>
+  <img src="https://github.com/pablomoli/pablomoli/raw/main/languages.svg" alt="Top Languages">
 </div>
 
 ---
